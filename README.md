@@ -1,4 +1,4 @@
-# linkedin_scrapper
+# linkedin_scraper
 
 Scrap linkedin profiles of student to fetch data
 
